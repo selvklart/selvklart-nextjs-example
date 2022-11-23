@@ -3,9 +3,9 @@
 ## Included
 
 * [Next JS](https://nodejs.org) and configured next.config with SWC support
-* [MUI (or Joy)](mui.com/) with configured emotion cache and SWR support
-* [Editorconfig](mui.com/) for Selvklart projects
-* [Eslint](mui.com/) based on Selvklart Eslint
+* [MUI (or Joy)](https://mui.com/) with configured emotion cache and SWR support
+* [Editorconfig](https://editorconfig.org/) for Selvklart projects
+* [Eslint](https://github.com/selvklart/eslint-config) based on Selvklart Eslint
 
 ## Local development
 
@@ -50,6 +50,8 @@ This will pull down the project and ask for a project name. Upon completion you 
     git push -u origin main
     # Pushes the changes in your local repository up to the remote repository you specified as the origin
 ```
+
+Your new project is now ready - happy coding!
 ### Editing the example TODO
 
 ### TODO
