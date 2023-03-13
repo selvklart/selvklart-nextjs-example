@@ -5,7 +5,10 @@ const nextConfig = {
 	swcMinify: true,
 	compiler: {
 		emotion: true
-	}
+	},
+	experimental: {
+        scrollRestoration: true
+    }
 };
 
 module.exports = nextConfig;
